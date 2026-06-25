@@ -37,12 +37,13 @@ AWS | RAG | FAISS | Hugging Face | LangChain | FastAPI
 - Used transcript ingestion, semantic chunking, FAISS retrieval, and Hugging Face LLMs
 - Reduced hallucinations by improving answer grounding with retrieved context
 
-### CineMatch | Movie Recommendation System
-- Developed a movie recommendation system to provide personalized movie suggestions
-- Used recommendation logic to match users with relevant movies based on interests
-- Improved content discovery by filtering and ranking movies according to user preference
-- Focused on clean user experience, practical recommendation flow, and easy usability
-- Strengthened understanding of recommendation systems, data handling, and project collaboration
+### RAGForge — Automated RAG Optimization & Benchmarking Platform
+
+- Automatically benchmarks multiple RAG configurations (chunk size, embeddings, top-K) instead of manual trial-and-error
+- FastAPI backend + PostgreSQL experiment tracking + ChromaDB vector storage
+- Leaderboard ranking system to compare and identify the best-performing RAG pipeline
+- Interactive Streamlit dashboard for uploads, benchmarks, and experiment history
+- Fully containerized with Docker Compose for one-command deployment
 
 ---
 
