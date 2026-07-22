@@ -1,12 +1,17 @@
-&lt;!-- Banner / Header --&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raj+Tiwari+%F0%9F%91%8B;RAG+%7C+LLM+Engineer+%7C+AI+Systems;Building+Production-Grade+AI+Pipelines" alt="Typing SVG" /&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="mailto:rt3390814@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/rajtiwari2004/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/raj11rt"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:rt3390814@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/rajtiwari2004/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/raj11rt"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
+  &lt;/a&gt;
   &lt;img src="https://img.shields.io/badge/Location-Bhopal,%20India-2ea44f?style=for-the-badge" /&gt;
 &lt;/p&gt;
 
@@ -46,42 +51,37 @@ A RAG system for semantic Q&A on video content. Integrates transcript ingestion,
 ## 🛠️ Tech Stack
 
 **Languages & Core**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /&gt;
-&lt;/p&gt;
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **AI & LLM Engineering**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /&gt;
-&lt;/p&gt;
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Vector DBs & Retrieval**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/FAISS-0081FF?style=flat-square&logo=meta&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat-square&logo=chroma&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/RAGAS-1C3C3C?style=flat-square&logo=ragas&logoColor=white" /&gt;
-&lt;/p&gt;
+
+![FAISS](https://img.shields.io/badge/FAISS-0081FF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat-square&logo=chroma&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-1C3C3C?style=flat-square&logo=ragas&logoColor=white)
 
 **Frameworks & Tools**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /&gt;
-&lt;/p&gt;
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Cloud**
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" /&gt;
-&lt;/p&gt;
+
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 
 ---
 
