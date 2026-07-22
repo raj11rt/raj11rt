@@ -1,18 +1,12 @@
+&lt;!-- Banner --&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raj+Tiwari+%F0%9F%91%8B;RAG+%7C+LLM+Engineer+%7C+AI+Systems;Building+Production-Grade+AI+Pipelines" alt="Typing SVG" /&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="mailto:rt3390814@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/rajtiwari2004/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/raj11rt"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Location-Bhopal,%20India-2ea44f?style=for-the-badge" /&gt;
+  &lt;a href="mailto:rt3390814@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/rajtiwari2004/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://github.com/raj11rt"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 ---
@@ -31,7 +25,7 @@ I build **production-grade RAG systems** and **LLM-powered applications** that t
 ## 🚀 Featured Projects
 
 ### [RAGForge](https://github.com/raj11rt/ragforge) — Automated RAG Optimization & Benchmarking
-&gt; **FastAPI · PostgreSQL · ChromaDB · Streamlit · Docker · Gemini**
+**FastAPI · PostgreSQL · ChromaDB · Streamlit · Docker · Gemini**
 
 A full-stack platform that eliminates manual trial-and-error in RAG tuning. Benchmarks **4 tunable parameters** (chunk size, overlap, top-K, embedding model) across **10+ pipeline configurations** per run, with ranked leaderboard analytics. Features a complete pipeline: ingestion → chunking → embedding → retrieval → generation, with results persisted in PostgreSQL for cross-run comparison.
 
@@ -40,7 +34,7 @@ A full-stack platform that eliminates manual trial-and-error in RAG tuning. Benc
 ---
 
 ### [VidSense AI](https://github.com/raj11rt/VidSenseAI) — Real-Time Q&A Over YouTube Videos
-&gt; **Python · FastAPI · LangChain · FAISS · Hugging Face**
+**Python · FastAPI · LangChain · FAISS · Hugging Face**
 
 A RAG system for semantic Q&A on video content. Integrates transcript ingestion, semantic chunking, and dense vector embeddings — **cutting hallucinations by 40–50%** vs. naive prompting. Built a memory-aware, multi-turn reasoning pipeline with query rewriting, sustaining **sub-second latency** and **&gt;90% precision** across 100+ queries.
 
