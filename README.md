@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raj+Tiwari+%F0%9F%91%8B;RAG+%7C+LLM+Engineer+%7C+AI+Systems;Building+Production-Grade+AI+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Raj+Tiwari+%F0%9F%91%8B;RAG+%7C+LLM+Engineer+%7C+AI+Systems;Building+Production-Grade+AI+Pipelines" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -97,8 +97,8 @@ A RAG system for semantic Q&A on video content. Integrates transcript ingestion,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj11rt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11rt&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raj11rt&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11rt&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
