@@ -97,12 +97,13 @@ A RAG system for semantic Q&A on video content. Integrates transcript ingestion,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raj11rt&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raj11rt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11rt&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raj11rt&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=raj11rt&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
