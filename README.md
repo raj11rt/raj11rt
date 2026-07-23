@@ -1,16 +1,21 @@
-&lt;!-- Banner --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raj+Tiwari+%F0%9F%91%8B;RAG+%7C+LLM+Engineer+%7C+AI+Systems;Building+Production-Grade+AI+Pipelines" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raj+Tiwari+%F0%9F%91%8B;RAG+%7C+LLM+Engineer+%7C+AI+Systems;Building+Production-Grade+AI+Pipelines" alt="Typing SVG" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:rt3390814@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/rajtiwari2004/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/raj11rt"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="mailto:rt3390814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajtiwari2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/raj11rt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
-
 ## 🎯 What I Do
 
 I build **production-grade RAG systems** and **LLM-powered applications** that turn unstructured data into reliable, queryable intelligence.
@@ -91,14 +96,14 @@ A RAG system for semantic Q&A on video content. Integrates transcript ingestion,
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=raj11rt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11rt&layout=compact&theme=github_dark&hide_border=true" height="165" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj11rt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj11rt&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=raj11rt&theme=github_dark&hide_border=true" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raj11rt&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
