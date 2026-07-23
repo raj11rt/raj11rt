@@ -99,13 +99,9 @@ A RAG system for semantic Q&A on video content. Integrates transcript ingestion,
 
 ## 📊 GitHub Stats
 
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj11rt&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=raj11rt&theme=github-dark&hide_border=true"/>
 </p>
-
----
 
 ## 🔭 Currently Building
 
